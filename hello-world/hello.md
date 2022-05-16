@@ -1,3 +1,3 @@
 # Hello, World!
 
-- Erik says hi
+- Erik says hi.
